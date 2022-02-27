@@ -1,0 +1,737 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last speeches and confession of the Lord Maguire: the Irish rebell, that was hanged at Tyburne, and drawne, and quartered on Thursday last, the 20th. of February, 1644. With all the questions that were put to him, and his severall answers. And the coppies of those letters, and other papers which he then had in his hands and made use of, that were afterwards delivered to Sheriffe Gibbs. And his directory from the Romish priests that gave him notice by the said papers to know them, in passing to Tiburne with him; also his severall absolutions secretly given him, and all other passages at his death. Printed and published according to order.</title>
+            <author>Enniskillen, Connor Maguire, Baron of, 1616-1645.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84037</idno>
+            <idno type="STC">Wing E3128A</idno>
+            <idno type="STC">Thomason E270_19</idno>
+            <idno type="STC">ESTC R212340</idno>
+            <idno type="EEBO-CITATION">99870969</idno>
+            <idno type="PROQUEST">99870969</idno>
+            <idno type="VID">123367</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84037)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 123367)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 45:E270[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last speeches and confession of the Lord Maguire: the Irish rebell, that was hanged at Tyburne, and drawne, and quartered on Thursday last, the 20th. of February, 1644. With all the questions that were put to him, and his severall answers. And the coppies of those letters, and other papers which he then had in his hands and made use of, that were afterwards delivered to Sheriffe Gibbs. And his directory from the Romish priests that gave him notice by the said papers to know them, in passing to Tiburne with him; also his severall absolutions secretly given him, and all other passages at his death. Printed and published according to order.</title>
+                  <author>Enniskillen, Connor Maguire, Baron of, 1616-1645.</author>
+               </titleStmt>
+               <extent>9, 8-14 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Iane Coe,</publisher>
+                  <pubPlace>Imprinted at London, :</pubPlace>
+                  <date>[1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from Wing.</note>
+                  <note>Annotation on Thomason copy: "feb: 24 1644".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Enniskillen, Connor Maguire, --  Baron of, 1616-1645.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:123367:1"/>
+            <pb facs="tcp:123367:1" rendition="simple:additions"/>
+            <p>
+               <hi>The laſt Speeches</hi> AND CONFESSION OF THE Lord Maguire: The <hi>Jriſh</hi> REBELL, that was Hang<g ref="char:EOLhyphen"/>ed at Tyburne, and Drawne, and Quartered on Thurſday laſt, the 20th. of <hi>February,</hi> 1644.</p>
+            <p>With all the Queſtions that were put to him, and his ſeverall Anſwers.</p>
+            <p>And the Coppies of thoſe Letters, and other Papers which he then had in his hands and made uſe of, that were afterwards delivered to Sheriffe <hi>Gibbs.</hi>
+            </p>
+            <p>And his Directory from the Romiſh Prieſts that gave him notice by the ſaid papers to know them, in paſsing to Tiburne with him; Alſo his ſeverall Abſoluti<g ref="char:EOLhyphen"/>ons ſecretly given him, and all other paſ<g ref="char:EOLhyphen"/>ſages at his death.</p>
+            <p>
+               <hi>Printed and Publiſhed according to Order.</hi>
+            </p>
+            <p>Imprinted at London, by <hi>Iane Coe.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:123367:2"/>
+            <pb facs="tcp:123367:2"/>
+            <head>The laſt ſpeeches, and confeſsion of the Lord <hi>Maguire</hi> the Iriſh Rebell.</head>
+            <argument>
+               <p>On Thurſday, <hi>Feb. 20.</hi> the Lord <hi>Maguire</hi> was drawne upon a ſledge from the Tower of London, through the citie unto Tyburne which being c<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e and the cart ſet ready he kneeled upon the ſledge and prayed for ſometime after which the Sheriffe ſpake to him as followeth. viz.</p>
+            </argument>
+            <sp>
+               <speaker>Sheriffe Gibs.</speaker>
+               <p>MY Lord <hi>Maguire;</hi> It is now the laſt Declaration you are like to make in this world; Here you ſtand juſtly condemned to be executed for a very hainous crime, as is not paraleld by any Hiſtory that was ever mentioned in the Chriſtian world, taking all circumſtances and their manner of proceedings, if you have done this, that you have done without any confeſſion, why then certainly you have much innocent blood lies upon you, and much to anſwer for at the judgement Seat of God: It is one of the ten Commandments. Thou ſhalt not kill. There are many thouſands, yea I may ſay hundred of thouſands whoſe blood you &amp; your complices have taken away: Men, and women, and children, ſuch as you never ſaw, ſuch as ne<g ref="char:EOLhyphen"/>ver did you any injury, and not onely ſo, but they were your fel<g ref="char:EOLhyphen"/>low Subjects, and were of the ſame cohabitation with you: you have now to anſwer for all this, as 'twas a confederacy wherein you were ingaged, My Lord, you have been an ingenious man as I have been told: you have been bred in Magdalene Colledge in Oxford, where you took the oath of Allegiance to our Soveraign Lord the King: contrary to this oath; you took upon you to ſur<g ref="char:EOLhyphen"/>prize His Caſtles and ſlay his ſubjects without any Commiſſion as you declare your ſelfe, therefore now make ſome acknow<g ref="char:EOLhyphen"/>ledgement, and give us the beſt ſatisfaction that you can that you doe hold it a very grievous ſinne, and that you are heartily ſorry for it.</p>
+            </sp>
+            <sp>
+               <speaker>Maguire.</speaker>
+               <p>God Almighty forgive me.</p>
+            </sp>
+            <sp>
+               <speaker>Sher.</speaker>
+               <p>Sir we deſire you before this people here to expreſſe your ſence of thoſe horrid actions.</p>
+            </sp>
+            <pb facs="tcp:123367:3"/>
+            <sp>
+               <speaker>Maguire.</speaker>
+               <p>I deſire Almighty God to forgive me my fi<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>.</p>
+            </sp>
+            <sp>
+               <speaker>Sheriffe Gibs.</speaker>
+               <p>Doe you beleeve you did well in thoſe wicked actions.</p>
+            </sp>
+            <sp>
+               <speaker>Mag.</speaker>
+               <p>I have but a ſhort time doe not trouble me.</p>
+            </sp>
+            <sp>
+               <speaker>Sher. Gibs.</speaker>
+               <p>Sir, It is juſt I ſhould trouble you, that you may not be troubled for ever.</p>
+            </sp>
+            <sp>
+               <speaker>Mag.</speaker>
+               <p>I beſeech you Sir, trouble me not I have but a little time to ſpend.</p>
+            </sp>
+            <sp>
+               <speaker>Sher. Gibs.</speaker>
+               <p>Sir, I ſhall give you as much time after as you ſhall ſpend to give ſatisfaction to the people: I doe require you as an inſtrument ſet in Gods ſtead here to make an acknowledgement to the people, whether you are ſorry for what you have done or no? Whether it be good or no?</p>
+            </sp>
+            <sp>
+               <speaker>Maguire.</speaker>
+               <p>I beſeech you, doe not trouble me.</p>
+            </sp>
+            <sp>
+               <speaker>Sheriffe.</speaker>
+               <p>I have told you, I would give you as much time after<g ref="char:EOLhyphen"/>ward as I ſhall take up.</p>
+            </sp>
+            <sp>
+               <speaker>Mag.</speaker>
+               <p>I am not diſpoſed to give you any Account.</p>
+            </sp>
+            <sp>
+               <speaker>Doctor Sibbalds.</speaker>
+               <p>If the blood of one Man, of <hi>Abel,</hi> cried to hea<g ref="char:EOLhyphen"/>ven for vengeance, how much more ſhall the blood of many thouſands: Oh give glory to God by confeſſion of your ſinnes, never any periſhed for want of mercy: Chriſt Jeſus is full of mercy. Make a faithfull and humble confeſſion, and there is par<g ref="char:EOLhyphen"/>don with God: God pardoned <hi>Manaſſeh</hi> the greateſt Idolater that ever was; the ſea of his Mercy is bottomeleſſe.</p>
+            </sp>
+            <sp>
+               <speaker>Mag.</speaker>
+               <p>Pray give me leave to pray.</p>
+            </sp>
+            <sp>
+               <speaker>Doctor Sibbalds.</speaker>
+               <p>Give glory to God that your ſoul may not be preſented to God with the blood of ſo many thouſand people.</p>
+            </sp>
+            <sp>
+               <speaker>Sheriffe.</speaker>
+               <p>You are either to goe to heaven or hell, if you not make an ingenious confeſsion, your caſe is deſperate. Had you any commiſsion or no.</p>
+            </sp>
+            <sp>
+               <speaker>Mag.</speaker>
+               <p>I tell you that there was no Commiſsion that ever I ſaw.</p>
+            </sp>
+            <sp>
+               <speaker>Doctor Sib.</speaker>
+               <p>How then doe you think to eſcape the judgement of the great God, when you ſhall live, and die in ſuch an outragious ſinne as this is;</p>
+            </sp>
+            <sp>
+               <speaker>Sher.</speaker>
+               <p>Who were actors or plotters with you, or gave you any Com<g ref="char:EOLhyphen"/>miſsion?</p>
+            </sp>
+            <sp>
+               <speaker>Mag.</speaker>
+               <p>For God ſake give me leave that I may depart in p<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ce.</p>
+            </sp>
+            <sp>
+               <speaker>D. Sib.</speaker>
+               <p>There is no diſſembling now: you are with in a few min<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s
+<pb facs="tcp:123367:3"/>to be preſented before the Tribu<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ll of that great Judge who will re<g ref="char:EOLhyphen"/>ward every man according to their deeds. There is mercy with God, the penitent received mercy at the houre of death. Chriſt Jeſus Armes are ſtill open with mercy for the penitent.</p>
+            </sp>
+            <sp>
+               <speaker>Sher.</speaker>
+               <p>Had you not ſome pardon or Bull from the <hi>Pope</hi> for what you did? I deſire you as a Miniſter of God to declare the truth?</p>
+            </sp>
+            <sp>
+               <speaker>Mag.</speaker>
+               <p>I am not of the ſame Religion with you.</p>
+            </sp>
+            <sp>
+               <speaker>Doct. Sib.</speaker>
+               <p>All your Religions agree in that: without confeſsion there is no ſalvation.</p>
+            </sp>
+            <sp>
+               <speaker>Alder. Bunch.</speaker>
+               <p>My Lord, Be pleaſed to remember that text in the Re<g ref="char:EOLhyphen"/>velation of the ſoules that lie under the Altar crying for God to avenge their blood; thoſe ſouls that are in heaven now, where your ſoul muſt go or elſe go to hell. Pray therefore, That God would give you a reall and unfained repentance for all your ſinnes: Beleeve that there is a God will bring vengeance upon you if you confeſſe not; Doe you know of any Bull or pardon.</p>
+            </sp>
+            <sp>
+               <speaker>Mag.</speaker>
+               <p>I ſaw none of it. All that I knew of I delivered in my exami<g ref="char:EOLhyphen"/>nations.</p>
+            </sp>
+            <sp>
+               <speaker>Sher.</speaker>
+               <p>Have you any pardon from the Pope.</p>
+            </sp>
+            <sp>
+               <speaker>Mag.</speaker>
+               <p>I ſaw none.</p>
+            </sp>
+            <sp>
+               <speaker>Doct. Sib.</speaker>
+               <p>I beſeech you my Lord in the name of God to diſcover the truth.</p>
+            </sp>
+            <sp>
+               <speaker>Mag.</speaker>
+               <p>What will you have me to ſpeak?</p>
+            </sp>
+            <sp>
+               <speaker>Sher.</speaker>
+               <p>What inducements moved you to it?</p>
+            </sp>
+            <sp>
+               <speaker>Mag.</speaker>
+               <p>All that I ſaid in my examinations are true, all that I ſaid is right. I beſeech you. Let me depart in peace.</p>
+            </sp>
+            <sp>
+               <speaker>Sher.</speaker>
+               <p>What grounds moved you firſt to attempt this?</p>
+            </sp>
+            <sp>
+               <speaker>Mag.</speaker>
+               <p>I have delivered all this in my examination; Gentlemen I be<g ref="char:EOLhyphen"/>ſeech you to let me depart in peace.</p>
+            </sp>
+            <sp>
+               <speaker>Sher.</speaker>
+               <p>Whither was that a ſin or no to ſhed ſo much innocent blood.</p>
+            </sp>
+            <sp>
+               <speaker>Mag.</speaker>
+               <p>For Gods ſake Gentlemen I have—</p>
+            </sp>
+            <sp>
+               <speaker>Sher.</speaker>
+               <p>Sir will you die like a ſtock, will you go to hell without mercy, and not acknowledge your ſorrowfulneſſe for that foul crime?</p>
+            </sp>
+            <sp>
+               <speaker>D. Sib.</speaker>
+               <p>Do you think a Jeſuit will pardon you when you will not con<g ref="char:EOLhyphen"/>feſſe: The queſtion is, whether your Honour do think you did well or ill in this bloody Act?</p>
+               <p>Here he anſwered not but continued mumbling over a paper as he had done from his coming; whereupon it being asked what the paper was.</p>
+            </sp>
+            <sp>
+               <speaker>Sher.</speaker>
+               <p>It is a Directory for his Devotion.</p>
+            </sp>
+            <sp>
+               <speaker>D. Sib.</speaker>
+               <p>You are going to hell or heaven; oh diſcharge your conſcience: Doe you know any plot or any thing is prejudiciall to the State of England, Diſcover it now.</p>
+            </sp>
+            <sp>
+               <speaker>Mag.</speaker>
+               <p>I know nothing indeed.</p>
+            </sp>
+            <pb facs="tcp:123367:4"/>
+            <sp>
+               <speaker>Sher.</speaker>
+               <p>Do you know any thing that is hurtfull to the Parliament <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> State?</p>
+            </sp>
+            <sp>
+               <speaker>Mag.</speaker>
+               <p>I know nothing, I have been a cloſe priſoner.</p>
+            </sp>
+            <sp>
+               <speaker>Sher.</speaker>
+               <p>I but ſince you were abroad, ſince you broke priſon.</p>
+            </sp>
+            <sp>
+               <speaker>Mag.</speaker>
+               <p>Truely I know nothing of it.</p>
+            </sp>
+            <sp>
+               <speaker>D. Sib.</speaker>
+               <p>His crime is blood eſpecially the blood of ſo many thouſand ſouls. He makes uſe of his paper to pore on, Its a dead letter unleſſe you read it.</p>
+            </sp>
+            <sp>
+               <speaker>Sher.</speaker>
+               <p>Search his pockets whether he hath no Bull or pardon.</p>
+               <p>Here his pockets were ſearched where they found ſome Beads and a Crucifixe which were taken from him.</p>
+            </sp>
+            <sp>
+               <speaker>D. Sib.</speaker>
+               <p>Come my Lord, Leave thoſe and acknowledge your offence to God and the world: one drop of the blood of Ieſus Chriſt is able to purge away all the heavy load of blood that is upon you.</p>
+            </sp>
+            <sp>
+               <speaker>Sher.</speaker>
+               <p>You do not deſire ſuch favour from our hands, unleſſe you were more ingenious then you are.</p>
+            </sp>
+            <sp>
+               <speaker>D. Sib.</speaker>
+               <p>My Lord, no more of theſe it is not your <hi>Ave-Maries</hi> not theſe things will doe you any good but it is <hi>Agnus Dei qui tollit pe<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>a<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> mundi.</hi>
+               </p>
+            </sp>
+            <stage>
+               <hi>Then the L.</hi> Maguire <hi>read out of a paper as followeth.</hi>
+            </stage>
+            <sp>
+               <speaker>Mag.</speaker>
+               <p>Since I am here to dye I deſire to depart with a quiet minde; and with the marks of a good Chriſtian, that is, asking forgiveneſſe, firſt of God, and next of the world. And I do forgive (from the bottom of my heart) all my enemies, and Offenders even thoſe that have a hand in my death I die a Romane Catholike, and although I have been a great ſinner yet am I now by God grace heartily ſorry for all my ſins, and I do moſt confidently truſt to be ſaved (not by my own works but onely by the Paſsion, Merits, and mercy, of my dear Saviour Jeſus Chriſt Into whoſe hands I commend my ſoule.</p>
+               <p>I beſeech you Gentlemen let me have a little time to ſay my prayers.</p>
+            </sp>
+            <sp>
+               <speaker>Sher.</speaker>
+               <p>Sir, if you will anſwer ingeniouſly to thoſe queſtions wee ſhall aske you, you ſhall have time afterwards: Whether do you ac<g ref="char:EOLhyphen"/>count the ſhedding of the proteſtants blood to be a ſin or not? And whe<g ref="char:EOLhyphen"/>ther do you deſire pardon of God for that ſin.</p>
+            </sp>
+            <sp>
+               <speaker>Mag.</speaker>
+               <p>I do deſire pardon of God for all my ſins. I cannot reſolve you in any thing for my part.</p>
+            </sp>
+            <sp>
+               <speaker>Sher.</speaker>
+               <p>You can tell what your conſcience Dictates to you; Doe you thinke it was a ſin or not; Declare it, and when you have dealt ingeni<g ref="char:EOLhyphen"/>ouſly and faithfully with us, we will deal well with you.</p>
+            </sp>
+            <sp>
+               <speaker>Mag.</speaker>
+               <p>For my part I cannot determine it.</p>
+            </sp>
+            <sp>
+               <speaker>Sher.</speaker>
+               <p>Then now it ſeemes nothing to you to kill ſo many.</p>
+            </sp>
+            <sp>
+               <speaker>Mag.</speaker>
+               <p>How do you mean killing of them? To tell you my minde di<g ref="char:EOLhyphen"/>rectly
+<pb facs="tcp:123367:4"/>for the killing I do not know that, but I thinke the Iriſh had a juſt cauſe for their Warres.</p>
+            </sp>
+            <sp>
+               <speaker>Sher.</speaker>
+               <p>Was there any aſſault made upon you, had you not en<g ref="char:EOLhyphen"/>tred into a Covenant; had you not engaged by oath your ſelf to your King?</p>
+            </sp>
+            <sp>
+               <speaker>Mag.</speaker>
+               <p>For Ieſus Chriſt I beſeech you to give me a little time to prepare my ſelfe.</p>
+            </sp>
+            <sp>
+               <speaker>Sher.</speaker>
+               <p>Have pitty upon your owne Soule.</p>
+            </sp>
+            <sp>
+               <speaker>Mag.</speaker>
+               <p>For God ſake have pitty upon me and let me ſay my prayers.</p>
+            </sp>
+            <sp>
+               <speaker>Sher.</speaker>
+               <p>I ſay the like to you, in relation to your own Soul; whe<g ref="char:EOLhyphen"/>ther do you think the maſſacre of ſo many 1000. Proteſtants was a good act, for Ieſus Chriſts ſake have pitty upon your own ſoul.</p>
+            </sp>
+            <sp>
+               <speaker>Mag.</speaker>
+               <p>Pray let me have a litle time to ſay my prayers.</p>
+            </sp>
+            <sp>
+               <speaker>Sher.</speaker>
+               <p>So much good bloud ſpilt and ſpent by you, and yet no remorſe?</p>
+            </sp>
+            <stage>Heere one of the Sheriffes demanding his paper which he had in his hand, he threw it downe and thereupon it was taken up and given to the Sheriffe.</stage>
+            <sp>
+               <speaker>D. Sib.</speaker>
+               <p>Acknowledge your owne crimes and bloodſhed; is it a ſinne or not that maſſacre that hath bin committed?</p>
+            </sp>
+            <sp>
+               <speaker>Mag.</speaker>
+               <p>I tould you my opinion that I thought the <hi>Iriſh</hi> had juſt cauſe for the War, in what they had done,</p>
+            </sp>
+            <sp>
+               <speaker>Sher. Ch.</speaker>
+               <p>You that have murthered ſo many as you have done with your owne hands, and no more penitent?</p>
+            </sp>
+            <sp>
+               <speaker>D. Sib.</speaker>
+               <p>No, he was taken before hee could act his deſignes, he was a prime engine and confederate amongſt them.</p>
+            </sp>
+            <sp>
+               <speaker>Sher.</speaker>
+               <p>If this be all we can get of you, you muſt ſtand or fall to your owne maſter.</p>
+            </sp>
+            <stage>
+               <hi>Heere he expected to be ſuddenly turned off, and thereupon fell to his prayers: uttering the word Jeſus about</hi> 20. <hi>or</hi> 30. <hi>times together</hi>
+            </stage>
+            <sp>
+               <speaker>Sher.</speaker>
+               <p>My Lord before you die, we deſire but one queſtion and that is this: whether there were not ſome Agreement made by the Comiſſioners that came over out of <hi>Ireland</hi> before the Rebellion firſt broke out with the Recuſants heere in <hi>England</hi> and whether they did not come back for further advice.</p>
+            </sp>
+            <pb facs="tcp:123367:5"/>
+            <sp>
+               <speaker>Mag.</speaker>
+               <p>I take it upon my death I doe not know that any man knew of it.</p>
+            </sp>
+            <sp>
+               <speaker>Sh.</speaker>
+               <p>Then you cake it upon your death you do not remember it.</p>
+            </sp>
+            <sp>
+               <speaker>Mag.</speaker>
+               <p>Of this fact wherein I am in barqued, in that I am brought into this trouble for, for which I was taken in <hi>Dublyn;</hi> to my beſt memorie or remembrance there was never a one in <hi>England,</hi> either Catholique or Proteſtant but one, and he was an <hi>Iriſh</hi> man and a Proteſtant.</p>
+            </sp>
+            <sp>
+               <speaker>Sher.</speaker>
+               <p>Where is he now, is he in <hi>England?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mag.</speaker>
+               <p>I know not where he is, but he was in this Towne.</p>
+            </sp>
+            <sp>
+               <speaker>D. Sib.</speaker>
+               <p>Doe you not know of any <hi>Engliſh</hi> man or <hi>Sc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tch</hi> man that did know of it? you will doe very well to declare it.</p>
+            </sp>
+            <sp>
+               <speaker>Sher.</speaker>
+               <p>It was one of your Country men that was in this Towne your Conſcience doth make you intimate thus much that he is in <hi>England,</hi> tell us his name and where he is.</p>
+            </sp>
+            <sp>
+               <speaker>Mac.</speaker>
+               <p>Nay in that excuſe me</p>
+            </sp>
+            <sp>
+               <speaker>Sher.</speaker>
+               <p>Is he a Lord or what is he?</p>
+            </sp>
+            <sp>
+               <speaker>Mag.</speaker>
+               <p>He is but a Gentleman, a Gentleman.</p>
+            </sp>
+            <sp>
+               <speaker>Sher.</speaker>
+               <p>Where does he lie, or what manner of man is he? diſcover, diſcharge your Conſcience and then you will die with more mercy and comfort I hope.</p>
+            </sp>
+            <sp>
+               <speaker>Sher. Ch.</speaker>
+               <p>My Lord, will you declare that Gentlemans name?</p>
+            </sp>
+            <sp>
+               <speaker>Mag.</speaker>
+               <p>You muſt excuſe me, I will accuſe no man; he was never any man that came to know of it but by chance, not as he was an Actor in it.</p>
+            </sp>
+            <sp>
+               <speaker>Shr.</speaker>
+               <p>Will you goe to Hell for him and your ſelfe, he may live to doe more miſchiefe, prepare your ſelfe for death.</p>
+            </sp>
+            <sp>
+               <speaker>Mag.</speaker>
+               <p>I doe beſeech all the Catholiques that are heere to pray for me, I beſeech God to have mercie upon my Soule.</p>
+               <p>Here when the Cart was going away, notice was given him of a Lord who was there.</p>
+            </sp>
+            <sp>
+               <speaker>Ald. Bunch.</speaker>
+               <p>Heere is a Baron of <hi>Ireland,</hi> a Lord of <hi>Jreland</hi> that ſat in Parliament with your Honour, if you have any thing to ſay to him, or will diſcover any thing to him.</p>
+            </sp>
+            <sp>
+               <speaker>Mag.</speaker>
+               <p>I have nothing to ſay to him.</p>
+               <p>After this the Executioner did his office</p>
+            </sp>
+         </div>
+         <div type="letter">
+            <pb n="9" facs="tcp:123367:5"/>
+            <head>A copie of the Papers which the L. <hi>Mac<g ref="char:EOLhyphen"/>quire</hi> carried in his hand to the place of execution, which were delivered to the Sheriffe.</head>
+            <head>A Letter of ſome of the friends of the L. <hi>Macguire,</hi> who (it ſeems) intended to attend him to the place of Execution.</head>
+            <opener>
+               <salute>Moſt loving Sir,</salute>
+            </opener>
+            <p>MY Maſter his Coach ſhall wait on you infallibly. That day your friend <hi>William</hi> ſhall go by the Coach all the way, upon a red horſe, with a white hat, and in a gray jacket,<note place="margin">We may ſee what need there is that the Officers of Priſons (that looke to the Pri<g ref="char:EOLhyphen"/>ſons) be purged.</note> and then you cannot chooſe (by the grace of God) but to know the Coach, of two whitiſh gray horſes, and then you may doe or ſhew that token only, as to lift up to your face your hand, nodding (or inclining down) your head, and there ſhall go two or three (divers) Coaches for the ſame purpoſe, and bee ſure to have plenary Phy<g ref="char:EOLhyphen"/>ſicke as you deſire. I ſend you this holy ſtone, by the vertue whereof you may gaine a plenary Phyſicke, in ſaying any certain prayer, I beſeech you deare Sir, be of good courage, for you ſhall not want any thing, for that happie journey, and offer you your ſelfe wholly for him, who did the ſame for you. Pray earneſtly for your Coun<g ref="char:EOLhyphen"/>try, and for your own ſonnes, that God may proſper them, I do humbly intreat you to pray for me. Yours own poore afflicted ſervant.</p>
+            <closer>
+               <signed>Your poore Gray.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <note place="margin">This was in the margin of the Let<g ref="char:EOLhyphen"/>ter, as it were a poſt<g ref="char:EOLhyphen"/>ſcript.</note>You ſhall do well to ſend your letters to morrow to that young man that comes to me, and the wooden Croſſe that I have ſent there of late, I beſeech you ſend me word, whe<g ref="char:EOLhyphen"/>ther the Reliquary that came along with thoſe two Croſſes was your or your companions<note n="*" place="margin">Macmohan-</note> 
+                  <hi>Hugh.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="text">
+            <pb n="8" facs="tcp:123367:6"/>
+            <p>
+               <hi>Theſe words following were in an Iriſh Character.</hi>
+            </p>
+            <p>Mo mhile beannacht chugad a mhic mhanma.</p>
+            <p>In Engliſh, <hi>My thouſand bleſsings unto you, ſon of my ſoule.</hi>
+            </p>
+            <p>This following was in a paper in Latin, (being, as it ſeems, the advice of his Confeſſour to him) which is here tranſlated.</p>
+            <div xml:lang="eng" type="part">
+               <p>BEloved ſon in Chriſt, be<g ref="char:EOLhyphen"/>lieve, almighty God, who governes all the world by his eternall providence, hath ap<g ref="char:EOLhyphen"/>pointed this way to thy ſalva<g ref="char:EOLhyphen"/>tion, and this manner of death, though he could have brought thee to the land of bleſſe by an<g ref="char:EOLhyphen"/>other way, knew this to be more expedient. Therefore (my ſon) thou ſhouldeſt ſuffer this glorious kinde of death which thy God hath ordained for thee, with an elevated mind, yea thou ſhouldeſt deſire it certain<g ref="char:EOLhyphen"/>ly this kind of death is a great mercy of God. Is it not a ſpe<g ref="char:EOLhyphen"/>ciall gift of God, to have a certaine time of ſorrow and re<g ref="char:EOLhyphen"/>pentance for offences commit<g ref="char:EOLhyphen"/>ted? O with how great a deſire did the Kingly Prophet <hi>David</hi> wiſh, that he might know the length of his dayes! expoſtu<g ref="char:EOLhyphen"/>lating thus with God, <hi>Make me O Lord to know my end and the number of my days.</hi>
+                  <pb n="9" facs="tcp:123367:6"/>This kind of death is gran<g ref="char:EOLhyphen"/>ted to many,<note place="margin">Pſal. 36.</note> who rather with a perverſe mind with an impro<g ref="char:EOLhyphen"/>vident death falt to ſuffer e<g ref="char:EOLhyphen"/>verlaſting puniſhment. David being weary of the miſeries and dangers of the preſent life, ſaid, <hi>Woe is me, be<g ref="char:EOLhyphen"/>cauſe my pilgrimage is pro<g ref="char:EOLhyphen"/>longed,</hi> as if the time of his baniſhment ſeemed long; be<g ref="char:EOLhyphen"/>ſides <hi>Paul</hi> ſayes, <hi>O wretched man that I am, who ſhall de<g ref="char:EOLhyphen"/>liver me from this body of death?</hi>
+                  <note place="margin">Rom. 7.</note> And out of a deſire of living in the land of the li<g ref="char:EOLhyphen"/>ving, he ſaid, <hi>I deſire to be diſſolved,</hi>
+                  <note place="margin">Plil. 1.</note> 
+                  <hi>and to bee with Chriſt.</hi> Therefore (my Lord) beare this death which now hangs over your head, with a quiet mind<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, for Chriſt died for you; therefore fervently meditate with the eyes of your heart, upon this bitter death of Chriſt, and his torments. See, —</p>
+               <p>
+                  <hi>Theſe Lines following were written on the back-ſide of the paper, part of it being before come, and no more brought by him then what is here.</hi>
+               </p>
+               <p>—his kingdome ſhall move thee, and ſar, into thy hands I commend my ſpirit,
+<pb n="10" facs="tcp:123367:7"/>Thou haſt redeemed me O Lord God of Truth; Thou haſt created me, oh my God, Thou haſt redeemed me, O moſt holy Father I am all thine: let thy will be done in me; illumi<g ref="char:EOLhyphen"/>nate mine eyes that I may ne<g ref="char:EOLhyphen"/>ver ſleep in death: Thou ſhalt invocate bleſſed <hi>Mary,</hi> for thy helper, ſaying: Mary the Mo<g ref="char:EOLhyphen"/>ther of grace, the Mother of mercy; do thou protect us, from the enemy, and receive us in the houre of death, thou ſhalt invocate alſo Saint <hi>Michael,</hi> the Archangell, and the Angell thy keeper, and the holy Pa<g ref="char:EOLhyphen"/>trons. And laſtly, all the Saints, that they may intercede for thee and helpe thee with their prayers and merits, thou ſhalt alſo recite theſe words: O Lord <hi>Jeſus</hi> Chriſt, <hi>I</hi> believe, that thou art my God and my Redeemer; and <hi>I</hi> firmely be<g ref="char:EOLhyphen"/>lieve whatſoever the holy ca<g ref="char:EOLhyphen"/>tholike Church propounds to be believed, and profeſſe that <hi>I</hi> will live and die in this faith. It grieves me that I have of<g ref="char:EOLhyphen"/>fended ſo great goodneſſe, and it grieves mee that <hi>I</hi> can grieve no more for my offen<g ref="char:EOLhyphen"/>ces committed againſt thee,
+<pb n="11" facs="tcp:123367:7"/>my Creatour and Saviour, in thought, word and deed, and by omiſsion: and <hi>I</hi> humbly be<g ref="char:EOLhyphen"/>ſeech thee to pardon me by thy bloud, which thou haſt powred out for my ſalvation; and if <hi>I</hi> have forgot any thing which hath offended thy Majeſty, or do not know it, <hi>I</hi> deſire to know it, and repent of it. And in the meane time <hi>I</hi> ask forgive<g ref="char:EOLhyphen"/>neſſe of all: and likewiſe for thy ſake doe from my heart paſſe by all offences whereby o<g ref="char:EOLhyphen"/>thers have offended me: Alſo <hi>I</hi> pray them to forgive me, &amp; if <hi>I</hi> have detained any thing from any man, my heires ſhal make reſtitution to them, to whom ought is due.</p>
+            </div>
+            <div xml:lang="lat" type="part">
+               <p>CRede (dilecte in Chriſto fili) Deum optimum maximum, qui mundum hunc univerſum aeterna qua<g ref="char:EOLhyphen"/>dam mentis proviſione mo<g ref="char:EOLhyphen"/>deratur; hanc ſalutis turew<g ref="char:EOLhyphen"/>am, &amp; hunc modu moriendi ſtatuiſſe: qui quidem quamvis te ad foelicitatis patriam alio tramite ducere potuiſſet, ma<g ref="char:EOLhyphen"/>gis hoc tibi expedire prae<g ref="char:EOLhyphen"/>cognovit. Ergo (mi fili) hoc genus glorioſum mo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tis, quod Dominus Deus ſic tibi ordinavit, erecto animo per<g ref="char:EOLhyphen"/>feras, quinetiam cxoptes. Certe hujuſmodi mors mag<g ref="char:EOLhyphen"/>num Der beneficium eſt; nonne ſpeciaſe donum Dei eſt, habere certum tempus dolendi &amp; poenitendi de of<g ref="char:EOLhyphen"/>fenſis commiſſis contra ſuam divinam Majeſtatem? O quanto deſiderio expoſtula<g ref="char:EOLhyphen"/>vit ſibi dari certum &amp; notum vitae ſuae. ſpatium regius Propheta David, expoſtu<g ref="char:EOLhyphen"/>lans
+<pb n="9" facs="tcp:123367:6"/>a Deo ſic! <hi>Notum fac mihi Domine finem meum, &amp; numerum drerum meorum.</hi> Hoc genus mortis enim qua<g ref="char:cmbAbbrStroke">̄</g>plurimis eſt conceſſum, qui perverſo potius animo improviſa morte ceciderunt, poenas daturi ſempiternas. David pertaeſus miſerias, &amp; pericula praeſentis vitae, dice<g ref="char:EOLhyphen"/>bat, Heu mihi quia incolatus meus prolongatus eſt; quaſi longum illi videretur tempus cxilii. Beatus Paulus dice<g ref="char:EOLhyphen"/>bat, <hi>Infelix ego, quis me libe<g ref="char:EOLhyphen"/>rabit à corpore mortis hujus?</hi> Et ex deſiderio vivendi in terra viventium, dicebat, <hi>Cupio diſſolui, &amp; eſſe cum Chriſto.</hi> Ideo (mi Domine) hanc mortem, quae tibi jam imminet, aquo animo pro Chriſto acerbiter pro te mortuo, ſeras. Hanc ama<g ref="char:EOLhyphen"/>riffimam Chriſti mortem, tormenta, &amp; caeteras oculis tui cordis ſerventer medi<g ref="char:EOLhyphen"/>tare. Vide,—</p>
+               <p>
+                  <hi>Theſe Lines following were written on the back-ſide of the paper, part of it being before come, and no more brought by him then what is here.</hi>
+               </p>
+               <p>—gni ſui tepromo<g ref="char:EOLhyphen"/>vent, &amp; dicas, In manus tu<g ref="char:EOLhyphen"/>as Domine commendo ſpiri<g ref="char:EOLhyphen"/>tum
+<pb n="10" facs="tcp:123367:7"/>meum, redemiſti me Domine Deus veritatis: Tu me creaſti Deus meus, tu me redemiſti: Pater ſanctiſſime, totus ſum tuus, fiat in me vo<g ref="char:EOLhyphen"/>luntas tua; illumina oculos meos, ne unquam obdormi<g ref="char:EOLhyphen"/>am in morte. Beatam Mari<g ref="char:EOLhyphen"/>am invoces in auxiliatricem, dicendo, Maria mater gra<g ref="char:EOLhyphen"/>tiae, mater miſericordiae, tu nos ab hoſte protege, &amp; in hora mortis ſuſcipe. Invoces etiam Sanctum Michaelem Archangelum, &amp; Angelum cuſtodem, &amp; ſanctos Patro<g ref="char:EOLhyphen"/>nos, &amp; demum omnes San<g ref="char:EOLhyphen"/>ctos, ut intercedent prote, &amp; adjuvent te ſuis ſuffragiis &amp; meritis. Recites etiam haec verba: Domine Jeſu Chri<g ref="char:EOLhyphen"/>ſte, credo quod Deus meus, &amp; Redemptor meus es tu, &amp; credo firmiter quicquid ſan<g ref="char:EOLhyphen"/>cta Eccleſia catholica pro<g ref="char:EOLhyphen"/>ponit credendum, &amp; in hac proteſtor me velle vivere &amp; mori. Domine Jeſu, dolet mihi, quod tantam bonita<g ref="char:EOLhyphen"/>tem offenderim, &amp; dolet, quod amplius non doleo de offenſis, contrate Creatorem &amp; Salvatorem meum, cogi<g ref="char:EOLhyphen"/>tatione, verbo, &amp; opere, &amp;
+<pb n="11" facs="tcp:123367:7"/>omiſſione perpetratis, &amp; hu<g ref="char:EOLhyphen"/>militer peto mihi condonari per ſanguinem tuum quem pro mea ſalute profudiſti. Et ſi quid oblitus ſum, vel non cognoſco quod Majeſtatem tuam offenderit, de eo illu<g ref="char:EOLhyphen"/>minari cupio, &amp; poenitere; &amp; interim de omnibus veniam peto: omnibus qui me of<g ref="char:EOLhyphen"/>fenderunt, ex corde meo, &amp; ſimiliter omnes offenſas pro<g ref="char:EOLhyphen"/>pter te dimitto, &amp; ſi quem ego offendi, precor etiam ve<g ref="char:EOLhyphen"/>niam mihi dari, &amp; ſi aliquid alicujus eſt apud me, volo ſa<g ref="char:EOLhyphen"/>tisfacere per haeredem me<g ref="char:EOLhyphen"/>um, omnibus quibus de<g ref="char:EOLhyphen"/>beo.</p>
+            </div>
+         </div>
+         <div type="text">
+            <head>The Copie of another paper, containing a di<g ref="char:EOLhyphen"/>rection for his devotion in his paſſage to, and at the place of execution, ſent from his ghostly Father with the former.</head>
+            <p>Jeſus. IHS Maria.</p>
+            <p>
+               <hi>In your paſſage to execution remember as followeth.</hi>
+            </p>
+            <p>To think on our Lord carrying his Croſſe to Mount Calvarie.</p>
+            <pb n="12" facs="tcp:123367:8"/>
+            <p>Or on the proper meditation againſt the devils temptations.</p>
+            <p>
+               <hi>Think that the paine is ſhort, the reward eternall and ever<g ref="char:EOLhyphen"/>laſting.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Have mercy on me O God, &amp;c.</cell>
+                     <cell>Miſerere mei Deus, &amp;c.</cell>
+                  </row>
+                  <row>
+                     <cell>Lord not in thy wrath.</cell>
+                     <cell>Domine ne in furore tuo. <hi>The firſt penitentiall Pſalme.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Our Father. Haile Mary.</cell>
+                     <cell>Pater noſter. Ave Maria.</cell>
+                  </row>
+                  <row>
+                     <cell>In thee O Lord have I truſted, let me never be confounded in thy juſtice.</cell>
+                     <cell>In te Domine ſperavi, non confundar in aeternum in tua juſtitia.</cell>
+                  </row>
+                  <row>
+                     <cell>By the myſtery of thy holy in<g ref="char:EOLhyphen"/>carnation, O Lord deliver us.</cell>
+                     <cell>Per myſterium ſanctae incar<g ref="char:EOLhyphen"/>nationis tuae libera nos Do<g ref="char:EOLhyphen"/>mine.</cell>
+                  </row>
+                  <row>
+                     <cell>Sanctifie me with the Spirit of Chriſt.</cell>
+                     <cell>Anima Chriſti ſanctifica me </cell>
+                  </row>
+                  <row>
+                     <cell>Thou ſought'ſt me being weary</cell>
+                     <cell>Quaerens me ſediſti laſſus.</cell>
+                  </row>
+                  <row>
+                     <cell>I humbly pray.</cell>
+                     <cell>Oro ſupplex.</cell>
+                  </row>
+                  <row>
+                     <cell>O holy Angels.</cell>
+                     <cell>Sancti Angeli.</cell>
+                  </row>
+                  <row>
+                     <cell>We flie to thee for aid, ô holy Mother of God.</cell>
+                     <cell>Subatuum praeſidium confu<g ref="char:EOLhyphen"/>gimus ſancta Dei genet<gap reason="illegible" resp="#UOM" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Remember ô maker of al things</cell>
+                     <cell>Memento rerum conditor.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Remember the promiſes of God, That none ſhall be tem<g ref="char:EOLhyphen"/>pted, &amp;c. Call upon me in the day of &amp;c. Come to me all ye that be heavie, &amp;c.</p>
+            <p>
+               <note place="margin">It is very probable this paper might be ſent to him from ſome of thoſe Prieſts that are in New<g ref="char:EOLhyphen"/>gate.</note>When you come to Newgate make your Token for an Abſolution.</p>
+            <p>When come to the place of Execution, doe as fol<g ref="char:EOLhyphen"/>loweth.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>O Lord Jeſus Chriſt, I worſhip thee in the Croſſe &amp;c.</cell>
+                     <cell>O Domine Jeſu Chriſte, ad<g ref="char:EOLhyphen"/>oro to in Cruce, &amp;c.</cell>
+                  </row>
+                  <row>
+                     <cell>Haile ſweet Mother of Chriſt, &amp;c.</cell>
+                     <cell>Ave dulcis Mater Chriſti, &amp;c.</cell>
+                  </row>
+                  <row>
+                     <cell>O holy Lady Mary.—</cell>
+                     <cell>Domina mea Sancta Maria.</cell>
+                  </row>
+                  <row>
+                     <cell>Lord now let thy ſervant de<g ref="char:EOLhyphen"/>part, &amp;c.</cell>
+                     <cell>Nunc dimittis ſervum tuum Domine.</cell>
+                  </row>
+                  <pb n="13" facs="tcp:123367:8"/>
+                  <row>
+                     <cell>Miſerere mei Deus.</cell>
+                     <cell>Have mere you me ô God.</cell>
+                  </row>
+                  <row>
+                     <cell>Quaerens me ſediſti laſſus.</cell>
+                     <cell>Thou ſought'ſt me being weary</cell>
+                  </row>
+                  <row>
+                     <cell>Oro ſupplex &amp; acclivis.</cell>
+                     <cell>I humbly pray on my knees.</cell>
+                  </row>
+                  <row>
+                     <cell>Tu fons miſericordia.</cell>
+                     <cell>Thou art the fountain of mercy</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <note place="margin">This was written but croſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d out again, and a<g ref="char:EOLhyphen"/>nother pa<g ref="char:EOLhyphen"/>per pinned upon it, written in another manner, which alſo doth follow</note>Pray for the Church of Ireland, <hi>M. Grea,</hi> ſay, <hi>Jeſus Maria</hi> three times for an Indulgence, alſo a <hi>Pater,</hi> and an <hi>Ave,</hi> and <hi>Ieſus Maria</hi> three times for the ſame end.</p>
+            <p>Then make either of theſe tokens, ſtretch out your hands in forme of a Croſſe, or (if you cannot) do ſo, joyne them together before your breſt, with a handkerchiefe twiſted a<g ref="char:EOLhyphen"/>bout your hand, (with ſorrow for your ſinnes, and earneſt<g ref="char:EOLhyphen"/>ly deſiuing abſolution of the Church) and God will abſolve you.</p>
+            <p>Before you make this token, ſettle on your deſire and ſay, I deſire an abſolution &amp;c. and ſay, <hi>Confiteor Deo omnipotemi,</hi> I confeſſe me to Almightie God, and then make your to<g ref="char:EOLhyphen"/>ken &amp;c.<note place="margin">This paper was pinned upon that which was croſſed out.</note>
+            </p>
+            <p>Then ſay, <hi>O Amabiliſsima Bonitas! Confiteor Dea,</hi> with ſorrow for your ſinnes, and ſettle your heart earneſtly to de<g ref="char:EOLhyphen"/>ſire an abſolution from the Church <hi>(and I deſire an abſoluti<g ref="char:EOLhyphen"/>on)</hi> make your token (or marke) of lifting both your hands to your face, and letting fall your hand kerchief, God will abſolve you.</p>
+            <p>After that pray for you menemies and perſecuters, and forgive them from the bottome of your heart.</p>
+            <p>Then willingly reſigne your ſelfe wholly to the B. will of God and truſt only to be ſaved by the merits of our Sa<g ref="char:EOLhyphen"/>viour Jeſus Chriſt.</p>
+            <p>Then ſay theſe words following (publikely) that you may be heard.<note place="margin">Did not <hi>Canterbury</hi> die juſt in this ma<g ref="char:cmbAbbrStroke">̄</g>ner?</note>
+            </p>
+            <p>Since I am here to die, I deſire to depart with a quiet minde, and with the markes of a good Chriſtian, that is, asking forgiveneſſe firſt of God, and next of the world. And
+<pb n="14" facs="tcp:123367:9"/>I do forgive (from the bottom of my heart) all my enemies offenders, even thoſe that have had a hand in my death.</p>
+            <p>Say moreover.</p>
+            <p>I die a Romane Catholike, and although I have been a great ſinner, yet am I now (by Gods grace) heartily ſorry for all my ſinnes. And I do moſt confidently truſt to be fa<g ref="char:EOLhyphen"/>ved not by any of my own workes, but only by the paſſion merits and mercy of my deare Saviour Jeſus Chriſt, into whoſe hands I commend my ſoule.</p>
+            <p>Offer to God for your ſinnes the merits of his Sonne Jeſus.</p>
+            <p>Offer all thy ſufferings to our Saviour in union of what he ſuffered.</p>
+            <p>Laſtly ſay,</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>O Lord Ieſus Chriſt.</cell>
+                     <cell>Domine Jeſu Chriſte.</cell>
+                  </row>
+                  <row>
+                     <cell>For that bitterneſſe.</cell>
+                     <cell>Propter illam amaritudinem.</cell>
+                  </row>
+                  <row>
+                     <cell>Thou ſought'ſt me being weary</cell>
+                     <cell>Quaerens me ſediſti laſſus.</cell>
+                  </row>
+                  <row>
+                     <cell>I humbly pray on my knees.</cell>
+                     <cell>Oro ſupplex &amp; acclivis.</cell>
+                  </row>
+                  <row>
+                     <cell>Thou art the fountain of mercy</cell>
+                     <cell>Tu fons miſericordiae.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <note place="margin">It ſeems the Prieſt was in ſight to give it him.</note>Reſigne your ſelfe willing<g ref="char:EOLhyphen"/>ly and wholly to God. Upon the ladder make your ſigne for an Abſolution, and ſay, I deſire with all my heart an abſolution from my mother the Catholike Church for my ſins.</p>
+            <argument>
+               <p>The whole Triall of the L. <hi>Macquire</hi> ſhould have been pub<g ref="char:EOLhyphen"/>liſhed ere this, but it could not be ready ſo ſuddenly: this being of ſuch concernment, is thought fit to be publiſhed in the interim.</p>
+            </argument>
+            <pb facs="tcp:123367:9"/>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
